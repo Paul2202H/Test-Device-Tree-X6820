@@ -90,7 +90,7 @@ TARGET_COPY_OUT_SYSTEM_EXT              := system_ext
 TARGET_COPY_OUT_VENDOR                  := vendor
 
 # Platform
-TARGET_BOARD_PLATFORM := mt6833
+TARGET_BOARD_PLATFORM := mt6877
 
 # Recovery
 TARGET_NO_RECOVERY := true
