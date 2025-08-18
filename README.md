@@ -1,4 +1,4 @@
-kloooi# Android device tree for TECNO pova 5 pro (LH8n)
+# Android device tree 
 
 ```
 #
